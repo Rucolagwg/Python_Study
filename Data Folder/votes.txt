@@ -1,0 +1,72 @@
+           Lewis	10
+
+           Lewis	4
+         Andrews	6
+
+            Rode	5
+           Lewis	5
+
+            Rode	10
+
+            Rode	5
+         Andrews	5
+
+         Chavira	5
+           Brown	2
+         Andrews	3
+
+         Chavira	3
+         Andrews	7
+
+         Chavira	8
+            Rode	2
+
+          Kelsey	2
+            Rode	8
+
+         Chavira	2
+            Rode	6
+           Brown	2
+
+          Kelsey	3
+           Lewis	7
+
+           Graff	3
+           Lewis	5
+         Andrews	2
+
+            Rode	1
+           Brown	4
+          Martin	5
+
+        Peterson	5
+           Graff	3
+         Andrews	2
+
+          Kelsey	3
+        Peterson	1
+           Graff	6
+
+            Rode	3
+        Peterson	3
+        Phillips	4
+
+       Rodriguez	2
+        Peterson	8
+
+       Rodriguez	6
+        Peterson	2
+          Martin	2
+
+        Peterson	6
+           Graff	3
+         Andrews	1
+
+       Rodriguez	1
+        Ringrose	4
+           Brown	5
+
+          Kelsey	3
+           Lewis	4
+         Andrews	3
+
